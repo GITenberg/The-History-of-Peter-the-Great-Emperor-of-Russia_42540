@@ -28,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Voltaire
     - http://en.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42540#The-History-of-Peter-the-Great-Emperor-of-Russia
 gutenberg_issued: '2013-04-15'
 gutenberg_type: Text
 identifiers:
