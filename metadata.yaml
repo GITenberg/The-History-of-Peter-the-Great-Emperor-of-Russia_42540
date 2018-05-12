@@ -1,0 +1,44 @@
+_repo: The-History-of-Peter-the-Great-Emperor-of-Russia_42540
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollett, Tobias George
+    - Smollet, T. (Tobias)
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+covers:
+- cover_type: archival
+  image_path: 42540-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_issued: '2013-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peter I, Emperor of Russia, 1672-1725'
+- !lcc 'DK'
+- !lcsh 'Russia -- History -- Peter I, 1689-1725'
+title: The History of Peter the Great, Emperor of Russia
+url: http://www.gutenberg.org/ebooks/42540
